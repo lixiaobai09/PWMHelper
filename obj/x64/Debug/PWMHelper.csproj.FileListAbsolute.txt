@@ -1,0 +1,8 @@
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\PWMHelper.csprojAssemblyReference.cache
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\PWMHelper.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Downloads\PWMHelper-master\bin\x64\Debug\PWMHelper.exe
+C:\Users\laptop\Downloads\PWMHelper-master\bin\x64\Debug\PWMHelper.pdb
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\Interop.igfxDHLib.dll
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\PWMHelper.csproj.ResolveComReference.cache
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\PWMHelper.exe
+C:\Users\laptop\Downloads\PWMHelper-master\obj\x64\Debug\PWMHelper.pdb
