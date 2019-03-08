@@ -13,7 +13,7 @@ thanks for anatoliis
 
 # USING
 As simple as running:
-set the PWM frequency to 2500Hz
+set the PWM frequency to 2000Hz
 
 # Compatibility
 Windows x64 / Intel embedded GPU's only
